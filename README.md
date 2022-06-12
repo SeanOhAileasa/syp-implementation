@@ -14,6 +14,12 @@ Recommend viewing using the ``nbviewer`` links below (click on the associated ``
 
 #### ``Implementation``
 
+<details close>
+    <summary>Secure Protocols</summary>
+
+- [Secure Protocols](https://nbviewer.org/github/SeanOhAileasa/syp-implementation/blob/main/rc/secure-protocols/syp-secure-protocols.ipynb#a) <br/>
+</details>
+
 ##### ``Secure Protocols``
 
 ##### ``Host and Application Security``
