@@ -14,15 +14,45 @@ Recommend viewing using the ``nbviewer`` links below (click on the associated ``
 
 #### ``Implementation``
 
+##### ``Secure Protocols``
+
 <details close>
     <summary>Secure Protocols</summary>
 
 - [Secure Protocols](https://nbviewer.org/github/SeanOhAileasa/syp-implementation/blob/main/rc/secure-protocols/syp-secure-protocols.ipynb#a) <br/>
 </details>
 
-##### ``Secure Protocols``
-
 ##### ``Host and Application Security``
+
+<details close>
+    <summary>Endpoint Protection</summary>
+
+- [Endpoint Protection](https://nbviewer.org/github/SeanOhAileasa/syp-implementation/blob/main/rc/host-and-application-security/syp-endpoint-protection.ipynb#a) <br/>
+</details>
+
+<details close>
+    <summary>Boot Integrity</summary>
+
+- [Boot Integrity](https://nbviewer.org/github/SeanOhAileasa/syp-implementation/blob/main/rc/host-and-application-security/syp-boot-integrity.ipynb#a) <br/>
+</details>
+
+<details close>
+    <summary>Database Security</summary>
+
+- [Database Security](https://nbviewer.org/github/SeanOhAileasa/syp-implementation/blob/main/rc/host-and-application-security/syp-database-security.ipynb#a) <br/>
+</details>
+
+<details close>
+    <summary>Application Security</summary>
+
+- [Application Security](https://nbviewer.org/github/SeanOhAileasa/syp-implementation/blob/main/rc/host-and-application-security/syp-application-security.ipynb#a) <br/>
+</details>
+
+<details close>
+    <summary>Application Hardening</summary>
+
+- [Application Hardening](https://nbviewer.org/github/SeanOhAileasa/syp-implementation/blob/main/rc/host-and-application-security/syp-application-hardening.ipynb#a) <br/>
+</details>
 
 ##### ``Secure Network Designs``
 
