@@ -56,6 +56,66 @@ Recommend viewing using the ``nbviewer`` links below (click on the associated ``
 
 ##### ``Secure Network Designs``
 
+<details close>
+    <summary>Load Balancing</summary>
+
+- [Load Balancing](https://nbviewer.org/github/SeanOhAileasa/syp-implementation/blob/main/rc/secure-network-designs/syp-load-balancing.ipynb#a) <br/>
+</details>
+
+<details close>
+    <summary>Network Segmentation</summary>
+
+- [Network Segmentation](https://nbviewer.org/github/SeanOhAileasa/syp-implementation/blob/main/rc/secure-network-designs/syp-network-segmentation.ipynb#a) <br/>
+</details>
+
+<details close>
+    <summary>Virtual Private Networks</summary>
+
+- [Virtual Private Networks](https://nbviewer.org/github/SeanOhAileasa/syp-implementation/blob/main/rc/secure-network-designs/syp-virtual-private-networks.ipynb#a) <br/>
+</details>
+
+<details close>
+    <summary>Port Security</summary>
+
+- [Port Security](https://nbviewer.org/github/SeanOhAileasa/syp-implementation/blob/main/rc/secure-network-designs/syp-port-security.ipynb#a) <br/>
+</details>
+
+<details close>
+    <summary>Secure Networking</summary>
+
+- [Secure Networking](https://nbviewer.org/github/SeanOhAileasa/syp-implementation/blob/main/rc/secure-network-designs/syp-secure-networking.ipynb#a) <br/>
+</details>
+
+<details close>
+    <summary>Firewalls</summary>
+
+- [Firewalls](https://nbviewer.org/github/SeanOhAileasa/syp-implementation/blob/main/rc/secure-network-designs/syp-firewalls.ipynb#a) <br/>
+</details>
+
+<details close>
+    <summary>Network Access Control</summary>
+
+- [Network Access Control](https://nbviewer.org/github/SeanOhAileasa/syp-implementation/blob/main/rc/secure-network-designs/syp-network-access-control.ipynb#a) <br/>
+</details>
+
+<details close>
+    <summary>Proxy Servers</summary>
+
+- [Proxy Servers](https://nbviewer.org/github/SeanOhAileasa/syp-implementation/blob/main/rc/secure-network-designs/syp-proxy-servers.ipynb#a) <br/>
+</details>
+
+<details close>
+    <summary>Intrusion Prevention</summary>
+
+- [Intrusion Prevention](https://nbviewer.org/github/SeanOhAileasa/syp-implementation/blob/main/rc/secure-network-designs/syp-intrusion-prevention.ipynb#a) <br/>
+</details>
+
+<details close>
+    <summary>Other Network Appliance</summary>
+
+- [Other Network Appliance](https://nbviewer.org/github/SeanOhAileasa/syp-implementation/blob/main/rc/secure-network-designs/syp-other-network-appliances.ipynb#a) <br/>
+</details>
+
 ##### ``Wireless Security``
 
 ##### ``Mobile Security``
