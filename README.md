@@ -118,6 +118,30 @@ Recommend viewing using the ``nbviewer`` links below (click on the associated ``
 
 ##### ``Wireless Security``
 
+<details close>
+    <summary>Wireless Cryptography</summary>
+
+- [Wireless Cryptography](https://nbviewer.org/github/SeanOhAileasa/syp-implementation/blob/main/rc/wireless-security/syp-wireless-cryptography.ipynb#a) <br/>
+</details>
+
+<details close>
+    <summary>Wireless Authentication Methods</summary>
+
+- [Wireless Authentication Methods](https://nbviewer.org/github/SeanOhAileasa/syp-implementation/blob/main/rc/wireless-security/syp-wireless-authentication-methods.ipynb#a) <br/>
+</details>
+
+<details close>
+    <summary>Wireless Authentication Protocols</summary>
+
+- [Wireless Authentication Protocols](https://nbviewer.org/github/SeanOhAileasa/syp-implementation/blob/main/rc/wireless-security/syp-wireless-authentication-protocols.ipynb#a) <br/>
+</details>
+
+<details close>
+    <summary>Installing Wireless Networks</summary>
+
+- [Installing Wireless Networks](https://nbviewer.org/github/SeanOhAileasa/syp-implementation/blob/main/rc/wireless-security/syp-installing-wireless-networks.ipynb#a) <br/>
+</details>
+
 ##### ``Mobile Security``
 
 ##### ``Cloud Security``
