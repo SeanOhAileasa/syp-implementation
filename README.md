@@ -176,6 +176,36 @@ Recommend viewing using the ``nbviewer`` links below (click on the associated ``
 
 ##### ``Cloud Security``
 
+<details close>
+    <summary>Cloud Security Controls</summary>
+
+- [Cloud Security Controls](https://nbviewer.org/github/SeanOhAileasa/syp-implementation/blob/main/rc/cloud-security/syp-cloud-security-controls.ipynb#a) <br/>
+</details>
+
+<details close>
+    <summary>Securing Cloud Storage</summary>
+
+- [Securing Cloud Storage](https://nbviewer.org/github/SeanOhAileasa/syp-implementation/blob/main/rc/cloud-security/syp-securing-cloud-storage.ipynb#a) <br/>
+</details>
+
+<details close>
+    <summary>Securing Cloud Networks</summary>
+
+- [Securing Cloud Networks](https://nbviewer.org/github/SeanOhAileasa/syp-implementation/blob/main/rc/cloud-security/syp-securing-cloud-networks.ipynb#a) <br/>
+</details>
+
+<details close>
+    <summary>Securing Compute Clouds</summary>
+
+- [Securing Compute Clouds](https://nbviewer.org/github/SeanOhAileasa/syp-implementation/blob/main/rc/cloud-security/syp-securing-compute-clouds.ipynb#a) <br/>
+</details>
+
+<details close>
+    <summary>Cloud Security Solutions</summary>
+
+- [Cloud Security Solutions](https://nbviewer.org/github/SeanOhAileasa/syp-implementation/blob/main/rc/cloud-security/syp-cloud-security-solutions.ipynb#a) <br/>
+</details>
+
 ##### ``Identity and Account Management``
 
 ##### ``Authentication and Authorization Services``
