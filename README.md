@@ -208,6 +208,24 @@ Recommend viewing using the ``nbviewer`` links below (click on the associated ``
 
 ##### ``Identity and Account Management``
 
+<details close>
+    <summary>Identity Controls</summary>
+
+- [Identity Controls](https://nbviewer.org/github/SeanOhAileasa/syp-implementation/blob/main/rc/identity-and-account-management/syp-identity-controls.ipynb#a) <br/>
+</details>
+
+<details close>
+    <summary>Account Types</summary>
+
+- [Account Types](https://nbviewer.org/github/SeanOhAileasa/syp-implementation/blob/main/rc/identity-and-account-management/syp-account-types.ipynb#a) <br/>
+</details>
+
+<details close>
+    <summary>Account Policies</summary>
+
+- [Account Policies](https://nbviewer.org/github/SeanOhAileasa/syp-implementation/blob/main/rc/identity-and-account-management/syp-account-policies.ipynb#a) <br/>
+</details>
+
 ##### ``Authentication and Authorization Services``
 
 ##### ``Public Key Infrastructure``
