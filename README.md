@@ -228,6 +228,36 @@ Recommend viewing using the ``nbviewer`` links below (click on the associated ``
 
 ##### ``Authentication and Authorization Services``
 
+<details close>
+    <summary>Authentication Management</summary>
+
+- [Authentication Management](https://nbviewer.org/github/SeanOhAileasa/syp-implementation/blob/main/rc/authentication-and-authorization-services/syp-authentication-management.ipynb#a) <br/>
+</details>
+
+<details close>
+    <summary>PAP and CHAP</summary>
+
+- [PAP and CHAP](https://nbviewer.org/github/SeanOhAileasa/syp-implementation/blob/main/rc/authentication-and-authorization-services/syp-pap-and-chap.ipynb#a) <br/>
+</details>
+
+<details close>
+    <summary>Identity and Access Services</summary>
+
+- [Identity and Access Services](https://nbviewer.org/github/SeanOhAileasa/syp-implementation/blob/main/rc/authentication-and-authorization-services/syp-identity-and-access-services.ipynb#a) <br/>
+</details>
+
+<details close>
+    <summary>Federated Identities</summary>
+
+- [Federated Identities](https://nbviewer.org/github/SeanOhAileasa/syp-implementation/blob/main/rc/authentication-and-authorization-services/syp-federated-identities.ipynb#a) <br/>
+</details>
+
+<details close>
+    <summary>Access Control</summary>
+
+- [Access Control](https://nbviewer.org/github/SeanOhAileasa/syp-implementation/blob/main/rc/authentication-and-authorization-services/syp-access-control.ipynb#a) <br/>
+</details>
+
 ##### ``Public Key Infrastructure``
 
 ## Credits
