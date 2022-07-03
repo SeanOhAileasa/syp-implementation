@@ -260,6 +260,30 @@ Recommend viewing using the ``nbviewer`` links below (click on the associated ``
 
 ##### ``Public Key Infrastructure``
 
+<details close>
+    <summary>Public Key Infrastructure</summary>
+
+- [Public Key Infrastructure](https://nbviewer.org/github/SeanOhAileasa/syp-implementation/blob/main/rc/public-key-infrastructure/syp-public-key-infrastructure.ipynb#a) <br/>
+</details>
+
+<details close>
+    <summary>Certificates</summary>
+
+- [Certificates](https://nbviewer.org/github/SeanOhAileasa/syp-implementation/blob/main/rc/public-key-infrastructure/syp-certificates.ipynb#a) <br/>
+</details>
+
+<details close>
+    <summary>Certificate Formats</summary>
+
+- [Certificate Formats](https://nbviewer.org/github/SeanOhAileasa/syp-implementation/blob/main/rc/public-key-infrastructure/syp-certificate-formats.ipynb#a) <br/>
+</details>
+
+<details close>
+    <summary>Certificate Concepts</summary>
+
+- [Certificate Concepts](https://nbviewer.org/github/SeanOhAileasa/syp-implementation/blob/main/rc/public-key-infrastructure/syp-certificate-concepts.ipynb#a) <br/>
+</details>
+
 ## Credits
 
 J. "Professor" Messer, "CompTIA Security+ (SY0-601) Course Notes," [professormesser.com](https://web.archive.org/web/20220521181010/https://www.professormesser.com/security-plus/sy0-601/sy0-601-video/sy0-601-comptia-security-plus-course/), September 2021.
